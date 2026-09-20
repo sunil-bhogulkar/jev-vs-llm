@@ -1,0 +1,6 @@
+# Classifier (Jev-style, System One)
+gliner2[local]
+protobuf
+torch
+
+# LLM (System Two) runs via Ollama - no pip package needed
