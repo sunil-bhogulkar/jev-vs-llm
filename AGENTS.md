@@ -7,7 +7,7 @@ on the same question, using `strawberry` letter-counting as the example.
 ## Project layout
 
 ```
-strawberry-compare/
+jev-vs-llm/
 ├── classifier/
 │   └── classify.py     # Jev-style classifier (GLiNER2), prints one-line JSON
 ├── llm/
